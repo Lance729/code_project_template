@@ -39,10 +39,3 @@ Depending on the project's requirements, you may need to install dependencies, s
 
 - Add a new remote repository: `git remote add origin new-url`
 
-## Conclusion
-You have successfully cloned the programming template, removed existing user information, and initialized the project. You are now ready to start working on your own version of the project.
-
-## Additional Resources
-- [Git Documentation](https://git-scm.com/doc)
-- [Project-Specific Documentation](#)
-
