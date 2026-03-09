@@ -7,10 +7,6 @@
 # /test  仅仅忽略项目根目录下的 test 文件，不包括 child/test等非根目录的test目录
 # 注：/在文件夹名前，表示根目录下的某个文件夹，/test/表示忽略根目录下的/test/目录的全部内容，而test/表示忽略文件夹test下的全部内容，不管是根目录下的/test/，还是某个子目录下的test文件夹，比如：/child/test，都会被忽略
 
-# my documents:
-CSI_set.xlsx
-cifar-100-python/
-# results/images/
 
 # results/
 *.pth
@@ -21,9 +17,6 @@ cifar-100-python/
 saved_models/
 *.gslides
 *.tmp
-# gpt2_model/
-# /llama-2-7b-chat
-# /FHE_AI_by_TaCo/README.md # 这个文件用来介绍各种接口，在main分支上应删除
 
 
 

@@ -39,3 +39,14 @@ Depending on the project's requirements, you may need to install dependencies, s
 
 - Add a new remote repository: `git remote add origin new-url`
 
+
+
+# 中文版
+
+步骤1: 安装setup.py，并安装组件
+步骤2: 设置引用成功提示
+步骤3: 安装pytest
+步骤4: 设置全局参数
+步骤5: 画图页面和画图工具分开
+步骤6: 设置python的虚拟环境，miniconda，python自带的虚拟环境工具venv(好像是这个名)
+步骤7: 用git管理版本
