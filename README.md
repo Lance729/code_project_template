@@ -66,7 +66,8 @@ mamba activate llm_env
 
 mamba install pytest setuptools
 
-# 可选安装：numpy torch jupyter
+# 可选安装：numpy jupyter
+# pip3 install torch torchvision (for mac)
 ```
 
 #### 方法二：从 environment.yml 创建 | From environment.yml
