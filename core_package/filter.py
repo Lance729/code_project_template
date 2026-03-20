@@ -8,6 +8,9 @@ def test():
         print("hello world")
 
 
+def test_1():
+    pass
+
 # 引用时会返回文字内容
 if __name__ != "__main__":
     print("✅ Env impl module <env_impl.py> is imported successfully! ") 
@@ -22,3 +25,5 @@ def test_env_impl():
 
 
     test()
+
+    test_1()
