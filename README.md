@@ -147,11 +147,6 @@ python -c "import core_package; print('OK')"
 - 支持日志输出和标记 / Support for logging and markers
 
 ```bash
-
-
-# 运行所有测试 / Run all tests
-pytest
-
 # 运行指定测试文件,‼️这会运行该文件中的所有测试 / Run specific test file
 pytest path/to/test_file.py
 
