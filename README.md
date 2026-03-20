@@ -102,12 +102,7 @@ mamba env export > environment.yml
 
 ## 项目初始化步骤 | Project Initialization Steps
 
-### 1. 克隆项目 | Clone the Project
 
-```bash
-git clone <project-url>
-cd LLMs
-```
 
 ### 2. 创建并激活环境 | Create and Activate Environment
 
@@ -152,11 +147,7 @@ python -c "import core_package; print('OK')"
 - 支持日志输出和标记 / Support for logging and markers
 
 ```bash
-# 使用 mamba 安装 pytest
-mamba install pytest
 
-# 或使用 pip
-pip install pytest
 
 # 运行所有测试 / Run all tests
 pytest
